@@ -62,3 +62,8 @@ Challenge: **Agents That Do Real Work**
 
 ##  Contributing
 This is an open-source project. Feel free to fork, open issues, or submit PRs to improve the Hexacortex!
+
+## 🎯 Hackathon Challenge
+This project is built for **Challenge 1: Agents That Do Real Work** of the [Build with DataHub: The Agent Hackathon](https://devpost.com/software/hexacortex-spiderweb-datahub).
+
+> *"Hexacortex reads DataHub through the MCP Server to detect schema anomalies, lineage breaks, and governance issues. It takes action by generating production-ready repair code and writes results back to the graph."*
